@@ -156,7 +156,7 @@ const expCards = [
     imgPath: "/images/exp1.png",
     logoPath: "/images/react.png",
     title: "Frontend Developer",
-    date: "January 2023 - Present",
+    date: "May 2025 - Present",
     responsibilities: [
       "Built interactive UI components for projects like VozMedia using React, managing state, props, and dynamic data effectively.",
       "Added engaging features such as animations, dynamic forms, and user interactions, enhancing overall application usability.",
@@ -169,7 +169,7 @@ const expCards = [
     imgPath: "/images/exp2.png",
     logoPath: "/images/node.png",
     title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    date: "June 2025 - Present",
     responsibilities: [
       "Designed and developed the backend architecture for VozMedia, implementing scalable APIs, efficient data exchange with proper backend.",
       "Integrated frontend and backend seamlessly, ensuring smooth user interactions and real-time updates across the platform.",
@@ -182,7 +182,7 @@ const expCards = [
     imgPath: "/images/exp3.png",
     logoPath: "/images/cplusplus.png",
     title: "C++ Developer",
-    date: "March 2019 - May 2020",
+    date: "December 2024 - Present",
     responsibilities: [
       "Developed a 2D game using C++ and SFML, implementing interactive gameplay mechanics and graphics.",
       "Practicing data structures and algorithms on LeetCode to improve problem-solving and coding efficiency.",
@@ -281,18 +281,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url: "https://www.instagram.com/shriyoj.shrestha/",
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    url: "https://www.facebook.com/shriyoj.shrestha",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url: "",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/shriyoj-stha-b3a71a38b/",
   },
 ];
 
